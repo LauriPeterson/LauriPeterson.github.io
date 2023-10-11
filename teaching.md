@@ -4,10 +4,10 @@ title: Teaching
 subtitle:
 ---
 
-footer-extra: University of Eastern Finland
+### University of Eastern Finland
 Global Environmental Politics - Spring 22, Spring 23
 
-footer-extra: Uppsala University
+### Uppsala University
 Global Sustainable Development - 2020-2023 (Fall and Spring)
 Environmental Politics and its Challenges - Spring 18, Spring 19, Spring 20
 International Politics - Fall 18, Spring 19
