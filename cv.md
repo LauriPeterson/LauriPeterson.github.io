@@ -4,4 +4,4 @@ title: CV
 subtitle:
 ---
 
-You can find my CV [here]() (updated October 2023)
+You can find my CV [here](CV/2023-CV) (updated October 2023)
