@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Research
+subtitle:
 ---
 
 6. Lauri Peterson. [What determines climate ambition? Analysing NDC enhancement with a mixed-method design](https://doi.org/10.1038/s44168-023-00051-8) npj Climate Action 2 (1), 21
