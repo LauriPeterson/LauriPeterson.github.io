@@ -2,6 +2,7 @@
 layout: home
 title: 
 subtitle:
+cover-img: "assets/img/profile-pic.jpg"
 ---
 
 
