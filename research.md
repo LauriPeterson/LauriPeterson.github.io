@@ -4,7 +4,7 @@ title: Research
 subtitle:
 ---
 
-6. Lauri Peterson. [What determines climate ambition? Analysing NDC enhancement with a mixed-method design](https://doi.org/10.1038/s44168-023-00051-8) npj Climate Action 2 (1), 21
+6. Lauri Peterson. [What determines climate ambition? Analysing NDC enhancement with a mixed-method design](https://doi.org/10.1038/s44168-023-00051-8) npj Climate Action (2023): 2 (1), 21
 
 5. Lauri Peterson. [Domestic and International Climate Policies: Complements or Substitutes?](https://doi.org/10.1007/s10784-021-09542-7) International Environmental Agreements: Politics, Law and Eco-
 nomics (2022): 22(1). 97–118 OPEN ACCESS
