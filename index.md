@@ -12,6 +12,8 @@ In my PhD dissertation, I investigated climate change mitigation on the internat
 
 I am currently engaged in several funded research projects, which investigate environmental politics and climate governance, including [the drivers and barriers of the development of Nationally Determined Contributions (NDCs)](http://www.ndc-aspects.eu/), the effects of climate hazards on [climate-resilient development](https://mmw.wallenberg.org/mojliggor-naturkatastrofer-langtgaende-atgarder-klimatanpassning-och-hallbar-utveckling) and [attitudes towards climate taxation](https://www.statsvet.uu.se/research/climate-policy-as-a-social-question--can-social-policies-reduce-opposition-to-carbon-taxes-/). 
 
+My research has been published, or is forthcoming, in the *World Development, Global Environmental Politics, npj Climate Action, International Environmental Agreements: Politics, Law and Economics*, among other outlets.
+
 My Google Scholar page can be found [here](https://scholar.google.com/citations?user=-ipUeI0AAAAJ&hl=en)
 
 I am a Centre of Natural Hazards and Disaster Science [Fellow](https://www.cnds.se/about-us/fellows/) and a [Research Fellow](https://www.earthsystemgovernance.org/person/lauri-peterson/) Earth System Governance.
