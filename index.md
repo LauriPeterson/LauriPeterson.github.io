@@ -3,7 +3,7 @@ layout: home
 title: 
 subtitle:
 ---
-"assets/img/profile-pic.jpg"
+"/assets/img/profile-pic.jpg"
 
 Welcome! I am a [Postdoctoral Researcher](https://uefconnect.uef.fi/en/person/lauri.peterson/) at the University of Eastern Finland, and a [Researcher](https://www.katalog.uu.se/profile/?id=N16-1504) at Uppsala University. I received my PhD in Political Science from Uppsala University in 2021 and my MA in International Relations and European Studies from Central European University in 2013.
 
