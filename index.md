@@ -6,7 +6,7 @@ subtitle:
 
 ![](assets/img/profile-pic.jpg)
 
-Welcome! I am a [Postdoctoral Researcher](https://uefconnect.uef.fi/en/person/lauri.peterson/) at the University of Eastern Finland, and a [Researcher](https://www.katalog.uu.se/profile/?id=N16-1504) at Uppsala University. I received my PhD in Political Science from Uppsala University in 2021 and my MA in International Relations and European Studies from Central European University in 2013.
+Welcome! I am a [Senior Researcher](https://uefconnect.uef.fi/en/person/lauri.peterson/) at the University of Eastern Finland, and a [Researcher](https://www.katalog.uu.se/profile/?id=N16-1504) at Uppsala University. I received my PhD in Political Science from Uppsala University in 2021 and my MA in International Relations and European Studies from Central European University in 2013.
 
 In my PhD dissertation, I investigated climate change mitigation on the international, national and sub-national levels of governance by looking at domestic actors and institutions. My current research interests encompass the determinants of climate change mitigation, the role of climate hazards, and the political legitimacy of climate policies. 
 
