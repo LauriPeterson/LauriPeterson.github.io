@@ -17,3 +17,6 @@ My research has been published in *World Development, Ecological Economics, Glob
 My Google Scholar page can be found [here](https://scholar.google.com/citations?user=-ipUeI0AAAAJ&hl=en)
 
 I am a Centre of Natural Hazards and Disaster Science [Fellow](https://www.cnds.se/about-us/fellows/) and a Earth System Governance [Research Fellow](https://www.earthsystemgovernance.org/person/lauri-peterson/) .
+
+In the media:
+[The Washington Post: How car bans and heat pump rules drive voters to the far right](https://www.washingtonpost.com/climate-environment/2024/05/01/how-climate-policies-are-giving-boost-far-right/)
