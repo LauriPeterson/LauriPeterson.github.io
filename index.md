@@ -10,13 +10,13 @@ Welcome! I am a [Senior Researcher](https://uefconnect.uef.fi/en/person/lauri.pe
 
 In my PhD dissertation, I investigated climate change mitigation on the international, national and sub-national levels of governance by looking at domestic actors and institutions. My current research interests encompass the determinants of climate change mitigation, the role of climate hazards, and the political legitimacy of climate policies. 
 
+I am a Centre of Natural Hazards and Disaster Science [Fellow](https://www.cnds.se/about-us/fellows/) and a Earth System Governance [Research Fellow](https://www.earthsystemgovernance.org/person/lauri-peterson/) .
+
 I am currently engaged in several funded research projects, which investigate environmental politics and climate governance, including [the political polarization of climate policy](https://www.uu.se/en/department/government/research/can-social-policy-reduce-the-risk-of-polarization-over-climate-change-mitigation-an-experimental-cross-country-assessment), [the drivers and barriers of the development of Nationally Determined Contributions (NDCs)](http://www.ndc-aspects.eu/), [the effects of climate hazards on climate-resilient development](https://mmw.wallenberg.org/mojliggor-naturkatastrofer-langtgaende-atgarder-klimatanpassning-och-hallbar-utveckling) and [attitudes towards carbon taxation](https://www.statsvet.uu.se/research/climate-policy-as-a-social-question--can-social-policies-reduce-opposition-to-carbon-taxes-/). 
 
 My research has been published in *World Development, Ecological Economics, Global Environmental Politics, npj Climate Action, International Environmental Agreements: Politics, Law and Economics*, among other outlets.
 
 My Google Scholar page can be found [here](https://scholar.google.com/citations?user=-ipUeI0AAAAJ&hl=en)
 
-I am a Centre of Natural Hazards and Disaster Science [Fellow](https://www.cnds.se/about-us/fellows/) and a Earth System Governance [Research Fellow](https://www.earthsystemgovernance.org/person/lauri-peterson/) .
-
-In the media:
+**In the media:**
 [The Washington Post: How car bans and heat pump rules drive voters to the far right](https://www.washingtonpost.com/climate-environment/2024/05/01/how-climate-policies-are-giving-boost-far-right/)
