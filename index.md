@@ -21,7 +21,9 @@ Furthermore, I am involved in three projects on how the welfare state shapes cit
 My Google Scholar page can be found [here](https://scholar.google.com/citations?user=-ipUeI0AAAAJ&hl=en)
 
 **In the media:**
+
 [The Washington Post: How car bans and heat pump rules drive voters to the far right](https://www.washingtonpost.com/climate-environment/2024/05/01/how-climate-policies-are-giving-boost-far-right/)
 
 **Blog posts**
+
 [Climate initiatives and research facilitating the expansion of high-integrity voluntary climate action](https://sites.uef.fi/cceel/climate-initiatives-and-research-facilitating-the-expansion-of-high-integrity-voluntary-climate-action/)
