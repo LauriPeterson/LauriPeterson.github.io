@@ -23,6 +23,8 @@ My Google Scholar page can be found [here](https://scholar.google.com/citations?
 
 [The Washington Post: How car bans and heat pump rules drive voters to the far right](https://www.washingtonpost.com/climate-environment/2024/05/01/how-climate-policies-are-giving-boost-far-right/)
 
+[Oil bosses call phasing out fossil fuels a ‘fantasy’ – but an international agreement is plausible](https://theconversation.com/oil-bosses-call-phasing-out-fossil-fuels-a-fantasy-but-an-international-agreement-is-plausible-226788)
+
 **Blog posts:**
 
 [Climate initiatives and research facilitating the expansion of high-integrity voluntary climate action](https://sites.uef.fi/cceel/climate-initiatives-and-research-facilitating-the-expansion-of-high-integrity-voluntary-climate-action/)
