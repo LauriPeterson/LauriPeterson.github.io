@@ -68,13 +68,10 @@ Open `index.html` and find/replace the following placeholders:
 
 | Placeholder | Replace with |
 |---|---|
-| `YOUR NAME` | Your full name |
-| `[YOUR FIELD]` | e.g., Computer Science |
-| `[YOUR UNIVERSITY]` | e.g., MIT |
-| `you@university.edu` | Your email address |
-| `[ADVISOR NAME]` | Your advisor's name |
-| `PhD Candidate / Postdoctoral...` | Your actual title |
-| Publications, courses, etc. | Your real content |
+| `Lauri Peterson` | Your full name |
+| `Climate Governance` | e.g., Computer Science |
+| `University of Eastern Finland / Uppsala University` | e.g., MIT |
+| `Senior Researcher` | Your actual title |
 
 ### Adding your photo
 - Name it `photo.jpg` (or `photo.png`)
