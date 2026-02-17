@@ -1,86 +1,328 @@
 <!DOCTYPE html>
-
 <html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>YOUR NAME — Academic Website</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=DM+Mono:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet" />
+</head>
+<body>
 
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- ─── NAV ─────────────────────────────────────────── -->
+  <nav id="navbar">
+    <span class="nav-name">YOUR NAME</span>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#research">Research</a></li>
+      <li><a href="#publications">Publications</a></li>
+      <li><a href="#cv">CV</a></li>
+      <li><a href="#teaching">Teaching</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+    <button class="hamburger" id="hamburger" aria-label="Open menu">&#9776;</button>
+  </nav>
 
-    <!-- Define title -->
-    <title>Lauri Peterson</title>
+  <!-- Mobile drawer -->
+  <div class="mobile-menu" id="mobileMenu">
+    <button class="close-btn" id="closeMenu" aria-label="Close menu">&#10005;</button>
+    <ul>
+      <li><a href="#about" class="mob-link">About</a></li>
+      <li><a href="#research" class="mob-link">Research</a></li>
+      <li><a href="#publications" class="mob-link">Publications</a></li>
+      <li><a href="#cv" class="mob-link">CV</a></li>
+      <li><a href="#teaching" class="mob-link">Teaching</a></li>
+      <li><a href="#contact" class="mob-link">Contact</a></li>
+    </ul>
+  </div>
 
-    <!-- Include favicon. Use, e.g., https://favicon.io/ -->
-    <link rel="icon" type="image/png" href="favicon.png" sizes="32x32" />
+  <!-- ─── HERO ─────────────────────────────────────────── -->
+  <header id="hero">
+    <div class="hero-inner">
+      <div class="hero-photo-col">
+        <div class="photo-frame">
+          <!-- Replace with your actual photo -->
+          <img src="assets/photo.jpg" alt="YOUR NAME" onerror="this.style.display='none'; this.parentElement.classList.add('no-photo')" />
+          <div class="photo-placeholder">
+            <span>Your<br/>Photo</span>
+          </div>
+        </div>
+      </div>
+      <div class="hero-text-col">
+        <p class="hero-label">Researcher ·  Scholar</p>
+        <h1 class="hero-name">YOUR<br/><em>NAME</em></h1>
+        <p class="hero-title">PhD Candidate · Department of [YOUR FIELD]<br/>University of [YOUR UNIVERSITY]</p>
+        <div class="hero-links">
+          <a href="assets/cv.pdf" class="btn" target="_blank">Download CV</a>
+          <a href="#contact" class="btn btn-ghost">Get in Touch</a>
+        </div>
+      </div>
+    </div>
+    <div class="hero-rule"></div>
+  </header>
 
-    <!-- Include style sheets -->
-    <link rel="stylesheet" href="main.css" />
+  <main>
 
-    <!-- Fonts from Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;600&display=swap" rel="stylesheet" />
-
-    <!-- Load FontAwesome (for icons) -->
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
-      integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
-      crossorigin="anonymous"
-    />
-
-    <!-- Load Academicons (for more icons) -->
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.2/css/academicons.min.css"
-      integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg=="
-      crossorigin="anonymous"
-    />
-  </head>
-
-  <body>
-    <section id="content">
-      <!-- Avatar image -->
-      <img src="image.jpg" alt="Carl Barks" class="avatar" />
-
-      <!-- Text -->
-      <h1>Hi, I'm Lauri Peterson!</h1>
-      <p>
-        I am a Senior Researcher at the Center for Climate Change, Energy and Environmental Law at University of Eastern Finland and a Researcher at Dept. of Government, Uppsala University.
-      </p>
-      <p>
-        My research focuses on climate governance at international, national, and sub-national levels, with particular attention to domestic actors and institutions. Currently, I explore voluntary climate action, the impact of climate hazards, and the political legitimacy of climate policies. My work has been published in World Development, Ecological Economics, Global Environmental Politics, npj Climate Action, and International Environmental Agreements: Politics, Law and Economics, among other journals.
-      </p>
-      <p>
-        Please feel free to get in touch!
-      </p>
-      <p>
-      Current Projects </h1>
-      I am the Principal Investigator for the EU Commission-funded project Achieving High-Integrity Voluntary Climate Action, and a collaborator for the Wallenberg-funded project ENABLE on the effects of climate hazards on climate-resilient development.
-      </p>
-      
-      <!-- Icons -->
-      <ul class="icons">
-        <li>
-          <a href="" title="Institutional website"><i class="fas fa-university"></i></a>
-        </li>
-        <li>
-          <a href="" title="E-Mail"><i class="fas fa-envelope"></i></a>
-        </li>
-        <li>
-          <a href="" title="GitHub"><i class="fab fa-github"></i></a>
-        </li>
-        <li>
-          <a href="" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-        </li>
-        <li>
-          <a href="" title="NASA / ADS"><i class="ai ai-ads"></i></a>
-        </li>
-        <li>
-          <a href="" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-        </li>
-      </ul>
+    <!-- ─── ABOUT ─────────────────────────────────────────── -->
+    <section id="about" class="section">
+      <div class="section-inner">
+        <div class="section-label">01 — About</div>
+        <div class="section-body two-col">
+          <div class="col-main">
+            <h2>About Me</h2>
+            <p>
+              I am a [PhD Candidate / Postdoctoral Researcher / Assistant Professor] in the
+              [Department of YOUR FIELD] at [YOUR UNIVERSITY]. My work sits at the intersection of
+              [AREA 1] and [AREA 2], with a focus on [BRIEF RESEARCH FOCUS].
+            </p>
+            <p>
+              Before coming to [CURRENT INSTITUTION], I completed my [degree] at [PREVIOUS
+              INSTITUTION]. I am advised by [ADVISOR NAME].
+            </p>
+            <p>
+              Outside of research, I enjoy [A FEW PERSONAL DETAILS — optional but humanizing].
+            </p>
+          </div>
+          <aside class="col-side">
+            <h3>Interests</h3>
+            <ul class="interest-list">
+              <li>Research Interest 1</li>
+              <li>Research Interest 2</li>
+              <li>Research Interest 3</li>
+              <li>Research Interest 4</li>
+            </ul>
+            <h3>Affiliations</h3>
+            <ul class="interest-list">
+              <li>[Lab or Center Name]</li>
+              <li>[Department Name]</li>
+            </ul>
+          </aside>
+        </div>
+      </div>
     </section>
-  </body>
- 
+
+    <!-- ─── RESEARCH ─────────────────────────────────────────── -->
+    <section id="research" class="section section-alt">
+      <div class="section-inner">
+        <div class="section-label">02 — Research</div>
+        <h2>Research</h2>
+        <p class="section-intro">
+          My research addresses [1–2 sentence summary of your research program]. I am
+          particularly interested in [SPECIFIC THEME OR QUESTION].
+        </p>
+        <div class="card-grid">
+
+          <div class="research-card">
+            <div class="card-number">01</div>
+            <h3>Research Theme One</h3>
+            <p>A short description of this line of work — what questions it addresses, what methods you use, and why it matters.</p>
+          </div>
+
+          <div class="research-card">
+            <div class="card-number">02</div>
+            <h3>Research Theme Two</h3>
+            <p>A short description of this line of work — what questions it addresses, what methods you use, and why it matters.</p>
+          </div>
+
+          <div class="research-card">
+            <div class="card-number">03</div>
+            <h3>Research Theme Three</h3>
+            <p>A short description of this line of work — what questions it addresses, what methods you use, and why it matters.</p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── PUBLICATIONS ─────────────────────────────────────── -->
+    <section id="publications" class="section">
+      <div class="section-inner">
+        <div class="section-label">03 — Publications</div>
+        <h2>Publications</h2>
+
+        <div class="pub-year-group">
+          <div class="pub-year">2024</div>
+          <div class="pub-list">
+
+            <div class="pub-item">
+              <p class="pub-title">Title of Paper One: A Subtitle That Is Descriptive</p>
+              <p class="pub-authors"><strong>Your Name</strong>, Co-Author Name, Co-Author Name</p>
+              <p class="pub-venue"><em>Journal of [Field]</em>, vol. 12, no. 3, pp. 100–120, 2024.</p>
+              <div class="pub-links">
+                <a href="#">PDF</a>
+                <a href="#">DOI</a>
+                <a href="#">Abstract</a>
+              </div>
+            </div>
+
+            <div class="pub-item">
+              <p class="pub-title">Title of Paper Two: Presented at a Major Conference</p>
+              <p class="pub-authors"><strong>Your Name</strong>, Co-Author Name</p>
+              <p class="pub-venue"><em>Proceedings of [Conference Name] (CONF'24)</em>, 2024.</p>
+              <div class="pub-links">
+                <a href="#">PDF</a>
+                <a href="#">Slides</a>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="pub-year-group">
+          <div class="pub-year">2023</div>
+          <div class="pub-list">
+
+            <div class="pub-item">
+              <p class="pub-title">Title of an Earlier Paper with a Long Descriptive Title</p>
+              <p class="pub-authors">Co-Author Name, <strong>Your Name</strong>, Co-Author Name</p>
+              <p class="pub-venue"><em>Another Journal of [Field]</em>, vol. 8, pp. 55–78, 2023.</p>
+              <div class="pub-links">
+                <a href="#">PDF</a>
+                <a href="#">DOI</a>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ─── CV ─────────────────────────────────────────── -->
+    <section id="cv" class="section section-alt">
+      <div class="section-inner">
+        <div class="section-label">04 — CV</div>
+        <h2>Curriculum Vitae</h2>
+        <p class="section-intro">
+          A full version of my CV is available for download. Below is a summary of my
+          academic background.
+        </p>
+
+        <div class="cv-download-row">
+          <a href="assets/cv.pdf" class="btn" target="_blank">Download Full CV (PDF)</a>
+        </div>
+
+        <div class="cv-blocks">
+
+          <div class="cv-block">
+            <h3>Education</h3>
+            <div class="cv-entry">
+              <span class="cv-year">20XX – Present</span>
+              <div>
+                <strong>PhD in [Field]</strong><br/>
+                [University Name], [City, Country]<br/>
+                <em>Advisor: Prof. [Name]</em>
+              </div>
+            </div>
+            <div class="cv-entry">
+              <span class="cv-year">20XX</span>
+              <div>
+                <strong>MS / MA / BS / BA in [Field]</strong><br/>
+                [University Name], [City, Country]
+              </div>
+            </div>
+          </div>
+
+          <div class="cv-block">
+            <h3>Awards &amp; Honors</h3>
+            <div class="cv-entry">
+              <span class="cv-year">20XX</span>
+              <div><strong>Fellowship / Award Name</strong><br/>[Granting Organization]</div>
+            </div>
+            <div class="cv-entry">
+              <span class="cv-year">20XX</span>
+              <div><strong>Another Award or Grant</strong><br/>[Granting Organization]</div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ─── TEACHING ─────────────────────────────────────────── -->
+    <section id="teaching" class="section">
+      <div class="section-inner">
+        <div class="section-label">05 — Teaching</div>
+        <h2>Teaching</h2>
+        <p class="section-intro">
+          I am committed to [one sentence on your teaching philosophy or approach].
+        </p>
+
+        <table class="teaching-table">
+          <thead>
+            <tr>
+              <th>Course</th>
+              <th>Role</th>
+              <th>Institution</th>
+              <th>Term</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>COURSE 101: Introduction to [Subject]</td>
+              <td>Teaching Assistant</td>
+              <td>[University]</td>
+              <td>Fall 20XX</td>
+            </tr>
+            <tr>
+              <td>COURSE 202: Advanced [Subject]</td>
+              <td>Instructor of Record</td>
+              <td>[University]</td>
+              <td>Spring 20XX</td>
+            </tr>
+            <tr>
+              <td>COURSE 301: [Another Course]</td>
+              <td>Teaching Assistant</td>
+              <td>[University]</td>
+              <td>Fall 20XX</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- ─── CONTACT ─────────────────────────────────────────── -->
+    <section id="contact" class="section section-alt">
+      <div class="section-inner">
+        <div class="section-label">06 — Contact</div>
+        <h2>Contact</h2>
+        <p class="section-intro">
+          I welcome inquiries about my research, potential collaborations, or
+          opportunities.
+        </p>
+
+        <div class="contact-grid">
+          <div class="contact-item">
+            <span class="contact-label">Email</span>
+            <a href="mailto:you@university.edu">you@university.edu</a>
+          </div>
+          <div class="contact-item">
+            <span class="contact-label">Office</span>
+            <span>Room XXX, Building Name<br/>[University Name]<br/>[City, State ZIP]</span>
+          </div>
+          <div class="contact-item">
+            <span class="contact-label">Links</span>
+            <div class="social-links">
+              <a href="https://scholar.google.com" target="_blank">Google Scholar</a>
+              <a href="https://orcid.org" target="_blank">ORCID</a>
+              <a href="https://github.com" target="_blank">GitHub</a>
+              <a href="https://twitter.com" target="_blank">Twitter / X</a>
+              <a href="https://linkedin.com" target="_blank">LinkedIn</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ─── FOOTER ─────────────────────────────────────────── -->
+  <footer>
+    <p>&copy; <span id="year"></span> YOUR NAME. Built with GitHub Pages.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
 </html>
